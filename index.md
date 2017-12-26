@@ -18,7 +18,7 @@ new product **< _CH-22_ >**
 * 	 3D Printing
 *   Final Presentation
 *   CODE
-*   Review
+*   Review
 
 
 ## [](#header-2) SetTop Box MVP Making Teaser.
