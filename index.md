@@ -22,7 +22,7 @@ new product **< _CH-22_ >**
 
 ## [](#header-2) SetTop Box MVP Making Teaser.
 
-> This is first Prototype Making Teaser
+> This is first Prototype(Most Valuable Player) Making Teaser
 > <iframe width="854" height="480" src="https://www.youtube.com/embed/cm97yw0XA68" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 > 
 
