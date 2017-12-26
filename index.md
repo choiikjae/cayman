@@ -23,7 +23,7 @@ new product **< _CH-22_ >**
 ## [](#header-2) SetTop Box MVP Making Teaser.
 
 > This is first Prototype Making Teaser
-> <iframe width="640" height="480" src="https://www.youtube.com/embed/cm97yw0XA68" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+> <iframe width="854" height="480" src="https://www.youtube.com/embed/cm97yw0XA68" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 > 
 
 
@@ -31,14 +31,14 @@ new product **< _CH-22_ >**
 ## [](#header-2) Interim Presentation 1
 
 > This is our interim presentation in class
-> <iframe width="640" height="480" src="https://www.youtube.com/embed/WPMjf_oOeDo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+> <iframe width="854" height="480" src="https://www.youtube.com/embed/WPMjf_oOeDo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 
 ## [](#header-2) Interim Presentation 2
 
 > This is our interim presentation in studio
-> <iframe width="640" height="480" src="https://www.youtube.com/embed/WGzCB_HqLOc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+> <iframe width="854" height="480" src="https://www.youtube.com/embed/WGzCB_HqLOc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 
@@ -64,8 +64,8 @@ new product **< _CH-22_ >**
 
 ## [](#header-2) Final Presentation
 
-> <iframe width="640" height="480" src="https://www.youtube.com/embed/FhJa0tm1bTM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-> <iframe width="640" height="480" src="https://www.youtube.com/embed/T3NYgEYmuMk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+> <iframe width="854" height="480" src="https://www.youtube.com/embed/FhJa0tm1bTM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+> <iframe width="854" height="480" src="https://www.youtube.com/embed/T3NYgEYmuMk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 ### [](#header-3) CODE
