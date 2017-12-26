@@ -2,9 +2,9 @@
 layout: default
 ---
 
-#My OSSW PROJECT.
+# My OSSW PROJECT.
 
-**PLUG N GENIE** ,
+**PLUG N GENIE**
 new product **< _CH-22_ >**
 
 
