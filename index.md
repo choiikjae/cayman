@@ -15,6 +15,7 @@ new product **< _CH-22_ >**
 
 *   SetTop Box MVP Making Teaser.
 *   Interim Presentation 1, 2
+*   Final Product Making Snapshot
 * 	 3D Printing
 *   Final Presentation
 *   CODE
