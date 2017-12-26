@@ -541,9 +541,5 @@ while True:
 
 #### 후기
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+이번 오픈소스 수업을 통해 많은 것을 배웠습니다. 하나의 결과물을 만들어 내기 위해서는 절대로 가벼운 마음가짐을 가져서는 안되고 끝까지 자신이 해내겠다는 열정으로 임해야 한다는 것을 배웠습니다. 또한 이것저것 지식을 쌓은 것 같고 앞으로 살아가면서 자신의 능력으로 해쳐나갈 일이 대부분이라는 것을 느꼈습니다. 결론적으로 주어진 일에 최선을 다하며 자립심을 기르도록 노력해야겠다고 생각했습니다.
 ```
